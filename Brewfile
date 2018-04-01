@@ -66,12 +66,10 @@ cask 'grammarly'
 cask 'spectacle'
 cask 'muzzle'
 cask 'vlc'
-cask 'utorrent'
 cask 'pritunl'
 cask 'caffeine'
 
 brew 'mas'
-mas 'TheUnarchiver', id: 425424353
 mas 'Keynote', id: 409183694
 
 cask 'skype'
