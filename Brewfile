@@ -61,7 +61,6 @@ brew 'zlib'
 cask 'firefox'
 cask 'google-chrome'
 
-cask 'gpg-suite'
 cask 'grammarly'
 cask 'spectacle'
 cask 'muzzle'
@@ -82,6 +81,7 @@ cask 'sublime-text'
 cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
+cask 'visual-studio-code'
 
 cask 'spotify'
 
