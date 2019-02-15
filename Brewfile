@@ -17,7 +17,6 @@ brew 'autojump'
 
 brew 'nvm'
 brew 'yarn'
-brew 'phantomjs'
 
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
