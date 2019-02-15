@@ -44,7 +44,6 @@ brew 'ffmpeg'
 brew 'libtool'
 brew 'readline'
 brew 'webp'
-brew 'imagemagick', args: ['with-fontconfig', 'with-librsvg', 'with-webp']
 brew 'libssh'
 brew 'libxml2'
 brew 'libxslt'
