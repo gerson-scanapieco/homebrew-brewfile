@@ -5,7 +5,6 @@ brew 'bash'
 brew 'bash-completion'
 brew 'git'
 brew 'rbenv'
-brew 'asdf'
 brew 'tree'
 
 brew 'zsh'
@@ -27,7 +26,7 @@ brew 'rabbitmq', restart_service: true
 brew 'redis', restart_service: true
 brew 'sqlite'
 brew 'mongodb'
-brew 'mysql'
+brew 'mysql', restart_service: true
 
 brew 'libpng'
 brew 'jpeg'
