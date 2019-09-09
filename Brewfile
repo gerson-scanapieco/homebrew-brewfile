@@ -25,7 +25,6 @@ brew 'postgresql@9.6', restart_service: true
 brew 'rabbitmq', restart_service: true
 brew 'redis', restart_service: true
 brew 'sqlite'
-brew 'mongodb'
 brew 'mysql', restart_service: true
 
 brew 'libpng'
