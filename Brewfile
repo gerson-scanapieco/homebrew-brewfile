@@ -15,6 +15,7 @@ brew 'vim'
 brew 'autojump'
 
 brew 'nvm'
+brew 'asdf'
 
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
