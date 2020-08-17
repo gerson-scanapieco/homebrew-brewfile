@@ -3,7 +3,6 @@ cask_args appdir: '/Applications'
 
 brew 'bash'
 brew 'bash-completion'
-brew 'git'
 brew 'rbenv'
 brew 'tree'
 
@@ -16,16 +15,9 @@ brew 'vim'
 brew 'autojump'
 
 brew 'nvm'
-brew 'yarn'
 
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
-
-brew 'postgresql@9.6', restart_service: true
-brew 'rabbitmq', restart_service: true
-brew 'redis', restart_service: true
-brew 'sqlite'
-brew 'mysql', restart_service: true
 
 brew 'libpng'
 brew 'jpeg'
@@ -53,24 +45,16 @@ brew 'zlib'
 cask 'firefox'
 cask 'google-chrome'
 
-cask 'grammarly'
 cask 'spectacle'
 cask 'muzzle'
 cask 'vlc'
-cask 'pritunl'
 cask 'caffeine'
 
-brew 'mas'
-mas 'Keynote', id: 409183694
-
-cask 'skype'
 cask 'slack'
 
 cask 'licecap'
 cask 'iterm2'
 cask 'insomnia'
-cask 'sublime-text'
-cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
 cask 'visual-studio-code'
