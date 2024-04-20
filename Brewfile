@@ -17,9 +17,6 @@ brew 'autojump'
 brew 'nvm'
 brew 'asdf'
 
-brew 'diff-so-fancy'
-brew 'the_silver_searcher'
-
 brew 'libpng'
 brew 'jpeg'
 brew 'freetype'
@@ -43,11 +40,7 @@ brew 'coreutils'
 brew 'libiconv'
 brew 'zlib'
 
-cask 'firefox'
-cask 'google-chrome'
-
 cask 'spectacle'
-cask 'muzzle'
 cask 'vlc'
 cask 'caffeine'
 
