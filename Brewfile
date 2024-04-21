@@ -7,7 +7,6 @@ brew 'coreutils'
 brew 'fzf'
 brew 'vim'
 brew 'autojump'
-brew 'nvm'
 brew 'asdf'
 brew 'rbenv'
 
